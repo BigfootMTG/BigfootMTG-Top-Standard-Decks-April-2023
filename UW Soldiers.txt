@@ -1,0 +1,28 @@
+Deck
+4 Zephyr Sentinel
+4 Valiant Veteran
+4 Skystrike Officer
+4 Resolute Reinforcements
+4 Recruitment Officer
+4 Harbin, Vanguard Aviator
+3 Dennick, Pious Apprentice
+1 Make Disappear
+4 Protect the Negotiators
+1 Destroy Evil
+3 The Wandering Emperor
+4 Adarkar Wastes
+3 Seachrome Coast
+3 Plains
+1 Eiganjo, Seat of the Empire
+2 Mirrex
+4 Fortified Beachhead
+2 Secluded Courtyard
+2 Otawara, Soaring City
+3 Deserted Beach
+
+Sideboard
+3 Destroy Evil
+3 Tocasia's Welcome
+4 Brutal Cathar
+3 Lantern Flare
+2 Knockout Blow

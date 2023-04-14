@@ -1,0 +1,27 @@
+Deck
+4 Crawling Chorus
+4 Skrelv, Defector Mite
+4 Venerated Rotpriest
+3 Jawbone Duelist
+4 Slaughter Singer
+4 Bloated Contaminator
+4 Audacity
+4 Tyvar's Stand
+2 Destroy Evil
+4 Skrelv's Hive
+2 Boseiju, Who Endures
+4 Brushland
+2 Eiganjo, Seat of the Empire
+1 Forest
+3 Mirrex
+2 Overgrown Farmland
+1 Plains
+4 Razorverge Thicket
+4 The Seedcore
+
+Sideboard
+3 Melira, the Living Cure
+4 Annex Sentry
+2 Destroy Evil
+4 Wedding Announcement
+2 Ajani, Sleeper Agent

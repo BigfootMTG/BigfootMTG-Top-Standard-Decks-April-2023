@@ -1,0 +1,24 @@
+Deck
+3 Phoenix Chick
+4 Monastery Swiftspear
+3 Feldon, Ronom Excavator
+4 Bloodthirsty Adversary
+4 Furnace Punisher
+4 Thundering Raiju
+4 Kumano Faces Kakkazan
+2 Rending Flame
+4 Lightning Strike
+4 Play with Fire
+2 Strangle
+1 Sokenzan, Crucible of Defiance
+4 Mishra's Foundry
+17 Mountain
+
+Sideboard
+2 Rending Flame
+2 Abrade
+3 Rebel Salvo
+1 Koth, Fire of Resistance
+2 Bloody Betrayal
+2 Vampires' Vengeance
+3 Obliterating Bolt
