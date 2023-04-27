@@ -1,0 +1,40 @@
+Deck
+1 Battlefield Forge
+1 Island
+3 Shivan Reef
+3 Seachrome Coast
+1 Battlefield Forge
+1 Plains
+1 Mountain
+2 Memory Deluge
+4 Deserted Beach
+2 Abrade
+2 Flame-Blessed Bolt
+4 Stormcarved Coast
+4 Sundown Pass
+2 Farewell
+3 The Wandering Emperor
+4 Disruption Protocol
+4 Fable of the Mirror-Breaker
+3 Reckoner Bankbuster
+1 Eiganjo, Seat of the Empire
+1 Otawara, Soaring City
+1 Sokenzan, Crucible of Defiance
+2 Make Disappear
+1 Depopulate
+3 Fires of Victory
+1 Adarkar Wastes
+1 Brotherhood's End
+3 Chrome Host Seedshark
+1 Zurgo and Ojutai
+
+Sideboard
+1 Negate
+2 Disdainful Stroke
+3 Sunset Revelry
+1 Farewell
+1 Reckoner Bankbuster
+2 Destroy Evil
+1 Negate
+1 Brotherhood's End
+3 Lithomantic Barrage
